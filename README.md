@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0x570rm
-- 👀 I’m interested in Coding and Security
+- 👀 I’m interested in Coding, Security and Generative AI.
 - 🌱 I’m currently learning Python, Go, Javascript and Security.
 - 💞️ I’m looking to collaborate on Security Research,Python and Js Projects.
 - 📫 How to reach me dr.sebastianstorm@gmail.com
